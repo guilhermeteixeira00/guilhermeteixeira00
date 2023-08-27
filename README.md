@@ -8,6 +8,7 @@
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gui-Pawn" height="30" widht="40" src="https://img.shields.io/badge/Pawn-%23ED8B00.svg?style=for-the-badge&logo=Pawn&logoColor=white">
 </div>
   
   ##
@@ -20,3 +21,7 @@
 
 
   ![](https://github-readme-stats.vercel.app/api?username=guilhermeteixeira00&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeteixeira00&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+  
+
+![](https://thumbs.gfycat.com/AdorableHandmadeGelada-size_restricted.gif)
