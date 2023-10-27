@@ -1,7 +1,7 @@
 ## Olá eu sou o Guilherme mais conhecido como Teixeira !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeteixeira00&show_icons=true&theme=highcontrast&hide)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeteixeira00&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeteixeira00&layout=compact&theme=highcontrast&hide)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
