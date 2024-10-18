@@ -1,4 +1,4 @@
-## Olá eu sou o Guilherme mais conhecido como Teixeira !
+ ## Olá eu sou o Guilherme mais conhecido como Teixeira !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeteixeira00&show_icons=true&theme=highcontrast&hide)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeteixeira00&layout=compact&theme=highcontrast&hide)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,7 +14,7 @@
 <div>
   <a href="https://www.instagram.com/teixeira_tatto_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external"></a>
   <a href="https://discord.gg/NAWEwjWxAn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="external"></a> 
-  <a href = "mailto:guigatin20@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
+  <a href = "mailto:guilherme.teixeira00@outlook.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
 </div>
 
 ![](https://thumbs.gfycat.com/AdorableHandmadeGelada-size_restricted.gif)
