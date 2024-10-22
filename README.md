@@ -17,4 +17,4 @@
   <a href = "mailto:guilherme.teixeira00@outlook.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
 </div>
 
-![](https://thumbs.gfycat.com/AdorableHandmadeGelada-size_restricted.gif)
+![](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952zc0dt6zyi6pr9ocpw1hcud3hfdom96l11rzhza8k&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
