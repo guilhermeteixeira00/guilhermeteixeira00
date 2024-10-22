@@ -1,4 +1,4 @@
- ## Olá eu sou o Guilherme mais conhecido como Teixeira !
+ ## Olá eu sou o Guilherme mais conhecido como Teixeira 🇧🇷!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeteixeira00&show_icons=true&theme=highcontrast&hide)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeteixeira00&layout=compact&theme=highcontrast&hide)](https://github.com/anuraghazra/github-readme-stats)
