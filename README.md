@@ -21,4 +21,8 @@
 </div>
 <br>
 
-![](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952zc0dt6zyi6pr9ocpw1hcud3hfdom96l11rzhza8k&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeteixeira00/guilhermeteixeira00/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeteixeira00/guilhermeteixeira00/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilhermeteixeira00/guilhermeteixeira00/output/github-contribution-grid-snake.svg">
+</picture>
