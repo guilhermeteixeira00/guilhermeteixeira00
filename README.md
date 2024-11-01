@@ -13,9 +13,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffe100&color:FFF)](mailto:guilherme.teixeira00@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffe100&color:FFF)](https://www.linkedin.com/in/guilherme-teixeira-86499732a/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ffe100&color:FFF)](https://www.instagram.com/teixeira_tatto_/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007B7B&color:FFF)](mailto:guilherme.teixeira00@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=007B7B&color:FFF)](https://www.linkedin.com/in/guilherme-teixeira-86499732a/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=007B7B&color:FFF)](https://www.instagram.com/teixeira_tatto_/)
+[![Discord](https://img.shields.io/badge/-discord-000?style=for-the-badge&logo=discord&logoColor=007B7B&color:FFF)](https://discord.gg/sZnuksgens)
 
 
 <h3 align="left">My Skills 📚</h3>
