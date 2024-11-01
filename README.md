@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nosifer&pause=1000&color=E7F738&width=435&lines=welcome+to+my+portfolio+!;my+name+is+Guilherme+." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&pause=1000&color=007B7B&width=435&lines=welcome+to+my+portfolio+!;My+name+is+Guilherme." alt="Typing SVG" /></a>
 </div>
 
 #
@@ -38,10 +38,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div style="text-align: center;" align="center">
   <h3>📊 GitHub Stats 📊</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermeteixeira00&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFEA00&text_color=FFF&border_radius=3&border_color=3c3712&icon_color=FFEA00&theme=jolly">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermeteixeira00&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=007B7B&text_color=FFF&border_radius=3&border_color=007B7B&icon_color=007B7B&theme=jolly">
 
   <a href="https://github.com/guilhermeteixeira00/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermeteixeira00&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF200&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=605717&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermeteixeira00&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=007B7B&hide=html,scss,less&bg_color=000&text_color=007B7B&border_radius=3&border_color=007B7B&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
