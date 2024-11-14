@@ -18,8 +18,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=007B7B&color:FFF)](https://www.instagram.com/teixeira_tatto_/)
 [![Discord](https://img.shields.io/badge/-discord-000?style=for-the-badge&logo=discord&logoColor=007B7B&color:FFF)](https://discord.gg/sZnuksgens)
 
-
-<h3 align="left">My Skills 📚</h3>
+<h3 align="left">📚 My Skills and tools ⚒️</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -31,6 +30,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
   <img width="8" />
   <img src="./src/pawn-logo.avif" height="25" alt="pawn logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="25" alt="git logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="25" alt="git logo" />
   <img width="8" />
 </div>
 
@@ -45,7 +48,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermeteixeira00&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=007B7B&hide=html,scss,less&bg_color=000&text_color=007B7B&border_radius=3&border_color=007B7B&count_private=true" alt="Linguagens mais usadas">
   </a>
 </div>
-
 
 #
 
