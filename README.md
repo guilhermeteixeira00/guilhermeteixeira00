@@ -20,6 +20,12 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 [![Instagram](https://img.shields.io/badge/-Instagram-ffdd00?style=for-the-badge&logo=instagram&logoColor=000000&color:FFF)](https://www.instagram.com/teixeira_tatto_/)
 [![Discord](https://img.shields.io/badge/-discord-ffdd00?style=for-the-badge&logo=discord&logoColor=000000&color:FFF)](https://discord.gg/sZnuksgens)
 
+## 🎧 Spotify Playing
+
+[![]()
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=fff700&bar_color_cover=true)
+
 ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,php,git,cpp,discord,github,lua,vscode&theme=light)
