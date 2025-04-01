@@ -4,12 +4,14 @@
 
 #
 
-<p align="center">Estudante de TI Preparado para aprender oque for preciso !. Atualmente estudo C++, javascript, php, para aprimorar as habilidade.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">IT Student Ready to learn whatever it takes! I am currently studying C++, Javascript, PHP to improve my skills.
+I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
+
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@guilhermeteixeira00-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
   
 #
 
-<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=1&pause=9999999999999999999999&color=007B7B&center=true&vCenter=true&width=230&lines=%F0%9F%93%9E+Connect+with+me+%F0%9F%93%9E" alt="Typing SVG" /></a></h3>
+## 📲 Contact
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=007B7B&color:FFF)](mailto:guilherme.teixeira00@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=007B7B&color:FFF)](https://www.linkedin.com/in/guilherme-teixeira-86499732a/)
