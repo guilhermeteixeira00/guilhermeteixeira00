@@ -9,8 +9,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="190px" src="./src/computer-code.gif">
-
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=1&pause=9999999999999999999999&color=007B7B&center=true&vCenter=true&width=230&lines=%F0%9F%93%9E+Connect+with+me+%F0%9F%93%9E" alt="Typing SVG" /></a></h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=007B7B&color:FFF)](mailto:guilherme.teixeira00@outlook.com)
