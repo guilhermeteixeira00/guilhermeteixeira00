@@ -3,6 +3,13 @@
 IT Student Ready to learn whatever it takes! I am currently studying C++, Javascript, PHP to improve my skills. I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
 
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@guilhermeteixeira00-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
+
+- 💻 Beginner developer exploring new technologies.
+- 🎮 Learning and developing in the gaming industry.
+- 🚀 I've participated in some projects and am always looking to evolve.
+- 🌍 Building a small community of developers.
+- 📚 Passionate about continuous learning and knowledge sharing.
+- 🎧 Fan of Rock and Trap – listening to everything from Linkin Park and Slipknot and Travis Scott.
   
 #
 
