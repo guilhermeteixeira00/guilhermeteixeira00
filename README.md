@@ -1,3 +1,7 @@
+<a href="https://app.daily.dev/guilhermeteixeira00">
+    <img src="https://api.daily.dev/devcards/v2/h8lHIdrV6TnDW6TBtrCap.png?r=g7z" width="356" alt="Guilherme Teixeira's Dev Card"/>
+</a>
+
 #
 
 IT Student Ready to learn whatever it takes! I am currently studying C++, Javascript, PHP to improve my skills. I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
