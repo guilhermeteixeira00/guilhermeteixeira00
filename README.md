@@ -24,7 +24,7 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 [![Teixeira Rock Music](https://img.shields.io/badge/Teixeira%20Rock%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/05fG473iIaoy82BF1aGhL8) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/0Y5tJX1MQlPlqiwlOH1tJY)
 
-[![Spotify]([[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ffff00&bar_color_cover=false)](https://open.spotify.com/user/31alvuw6hdcl4cf65mroprno6ajy)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ffff00&bar_color_cover=false)](https://open.spotify.com/user/31alvuw6hdcl4cf65mroprno6ajy)
 
 ## 🔧 Technologies
 
