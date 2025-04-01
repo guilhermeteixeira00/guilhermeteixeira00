@@ -1,11 +1,6 @@
-<div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Imperial+Script&size=60&pause=1000&color=007B7B&center=true&vCenter=true&width=580&height=100&lines=welcome+to+my+Profile+!;my+name+is+Guilherme+Teixeira" alt="Typing SVG" /></a>
-</div>
-
 #
 
-<p align="center">IT Student Ready to learn whatever it takes! I am currently studying C++, Javascript, PHP to improve my skills.
-I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
+IT Student Ready to learn whatever it takes! I am currently studying C++, Javascript, PHP to improve my skills. I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
 
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@guilhermeteixeira00-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
   
