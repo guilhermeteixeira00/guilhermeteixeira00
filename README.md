@@ -4,7 +4,7 @@
     <img src="https://api.daily.dev/devcards/v2/h8lHIdrV6TnDW6TBtrCap.png?r=g7z" style="min-width: 200px; max-width: 250px; width: 30%" alt="Guilherme Teixeira's Dev Card" align="right"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=32&pause=1000&color=F7EF00&vCenter=true&width=200&height=40&lines=Full+Stack;Software+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=32&pause=1000&color=F7EF00&center=true&vCenter=true&width=200&height=40&lines=Full+Stack;Software+Dev)](https://git.io/typing-svg)
 
 IT Student Ready to learn whatever it takes! I am currently studying C++, Javascript, PHP to improve my skills. I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
 
