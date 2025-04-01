@@ -22,7 +22,7 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 ## 🎧 Spotify Playing
 
-[![]()
+[![Teixeira Rock Music](https://img.shields.io/badge/Teixeira%20Rock%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](link aki) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](link aki)
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=fff700&bar_color_cover=true)
 
