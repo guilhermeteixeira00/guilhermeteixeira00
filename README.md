@@ -1,3 +1,5 @@
+# 👋 Guilherme Teixeira (💻💖) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)
+
 <a href="https://app.daily.dev/guilhermeteixeira00">
     <img src="https://api.daily.dev/devcards/v2/h8lHIdrV6TnDW6TBtrCap.png?r=g7z" style="min-width: 200px; max-width: 250px; width: 30%" alt="Guilherme Teixeira's Dev Card" align="right"/>
 </a>
