@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/guilhermeteixeira00">
-    <img src="https://api.daily.dev/devcards/v2/h8lHIdrV6TnDW6TBtrCap.png?r=g7z" width="356" alt="Guilherme Teixeira's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/h8lHIdrV6TnDW6TBtrCap.png?r=g7z" style="min-width: 200px; max-width: 250px; width: 30%" alt="Guilherme Teixeira's Dev Card" align="right"/>
 </a>
 
 #
