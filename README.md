@@ -2,8 +2,6 @@
     <img src="https://api.daily.dev/devcards/v2/h8lHIdrV6TnDW6TBtrCap.png?r=g7z" style="min-width: 200px; max-width: 250px; width: 30%" alt="Guilherme Teixeira's Dev Card" align="right"/>
 </a>
 
-#
-
 IT Student Ready to learn whatever it takes! I am currently studying C++, Javascript, PHP to improve my skills. I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
 
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@guilhermeteixeira00-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
@@ -14,8 +12,6 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 - 🌍 Building a small community of developers.
 - 📚 Passionate about continuous learning and knowledge sharing.
 - 🎧 Fan of Rock and Trap – listening to everything from Linkin Park and Slipknot and Travis Scott.
-  
-#
 
 ## 📲 Contact
 
@@ -34,8 +30,6 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,php,git,cpp,discord,github,lua,vscode&theme=light)
 
-## 
-
 <div style="text-align: center;" align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermeteixeira00&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=ffdd00&text_color=FFF&border_radius=3&border_color=ffdd00&icon_color=ffdd00&theme=jolly">
 
@@ -43,8 +37,6 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermeteixeira00&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ffdd00&hide=html,scss,less&bg_color=000&text_color=ffdd00&border_radius=3&border_color=ffdd00&count_private=true" alt="Most Used Languages">
   </a>
 </div>
-
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeteixeira00/guilhermeteixeira00/output/github-contribution-grid-snake-dark.svg">
