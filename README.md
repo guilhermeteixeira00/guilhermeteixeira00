@@ -8,20 +8,18 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 ## 📲 Contact
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=007B7B&color:FFF)](mailto:guilherme.teixeira00@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=007B7B&color:FFF)](https://www.linkedin.com/in/guilherme-teixeira-86499732a/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=007B7B&color:FFF)](https://www.instagram.com/teixeira_tatto_/)
-[![Discord](https://img.shields.io/badge/-discord-000?style=for-the-badge&logo=discord&logoColor=007B7B&color:FFF)](https://discord.gg/sZnuksgens)
+[![E-mail](https://img.shields.io/badge/-Email-ffdd00?style=for-the-badge&logo=Gmail&logoColor=000000&color:FFF)](mailto:guilherme.teixeira00@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffdd00?style=for-the-badge&logo=linkedin&logoColor=000000&color:FFF)](https://www.linkedin.com/in/guilherme-teixeira-86499732a/)
+[![Instagram](https://img.shields.io/badge/-Instagram-ffdd00?style=for-the-badge&logo=instagram&logoColor=000000&color:FFF)](https://www.instagram.com/teixeira_tatto_/)
+[![Discord](https://img.shields.io/badge/-discord-ffdd00?style=for-the-badge&logo=discord&logoColor=000000&color:FFF)](https://discord.gg/sZnuksgens)
 
 ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,php,git,cpp,discord,github,lua,vscode&theme=light)
 
-#
+## 
 
 <div style="text-align: center;" align="center">
-  <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=1&pause=9999999999999999999999&color=007B7B&center=true&vCenter=true&width=200&lines=%F0%9F%93%8A+GitHub+Stats+%F0%9F%93%8A" alt="Typing SVG" /></a></h3>
-  <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermeteixeira00&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=007B7B&text_color=FFF&border_radius=3&border_color=007B7B&icon_color=007B7B&theme=jolly">
 
   <a href="https://github.com/guilhermeteixeira00/github-readme-stats">
