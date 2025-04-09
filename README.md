@@ -1,7 +1,7 @@
 # 👋 Guilherme Teixeira (💻💖) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/NightFall-Gaming)
 
 <a href="https://app.daily.dev/guilhermeteixeira00">
-    <img src="https://api.daily.dev/devcards/v2/h8lHIdrV6TnDW6TBtrCap.png?r=g7z" style="min-width: 200px; max-width: 250px; width: 30%" alt="Guilherme Teixeira's Dev Card" align="right"/>
+    <img src="https://api.daily.dev/devcards/v2/h8lHIdrV6TnDW6TBtrCap.png?type=default&r=y1g" style="min-width: 200px; max-width: 250px; width: 30%" alt="Guilherme Teixeira's Dev Card" align="right"/>
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=32&pause=1000&color=F7EF00&center=true&vCenter=true&width=200&height=48&lines=Full+Stack;Software+Dev)](https://git.io/typing-svg)
