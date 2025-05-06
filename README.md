@@ -42,8 +42,6 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
   </a>
 </div>
 
-#
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeteixeira00/guilhermeteixeira00/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeteixeira00/guilhermeteixeira00/output/github-contribution-grid-snake-dark.svg">
